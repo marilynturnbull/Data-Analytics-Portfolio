@@ -31,6 +31,13 @@ Data preparation, exploratory data analysis (EDA), and predictive analytics usin
 ### Business Intelligence
 Reporting automation, operational insights, stakeholder reporting, and decision-support solutions.
 
+## Current Projects
+### Equipment Reporting Suite (Power BI)
+Development of a Power BI reporting suite supporting operational reporting, equipment performance analysis, and business insights.
+
+### Mission Ready Analytics Projects
+Portfolio of SQL, Python, Power BI and Microsoft Fabric projects completed as part of the Mission Ready AI-Powered Data Analyst Accelerator.
+
 ## Current Learning Journey
 Through the Mission Ready Data Analyst Accelerator and AI-Powered Data Analyst Accelerator, I am building practical capability in:
 
