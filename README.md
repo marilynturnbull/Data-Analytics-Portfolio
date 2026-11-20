@@ -33,7 +33,7 @@ Reporting automation, operational insights, stakeholder reporting, and decision-
 
 ## Current Projects
 ### Equipment Reporting Suite (Power BI)
-Development of a Power BI reporting suite supporting operational reporting, equipment performance analysis, and business insights.
+Development of a Power BI reporting suite supporting operational reporting, equipment performance analysis, business intelligence reporting, and data-driven decision-making.
 
 ### Mission Ready Analytics Projects
 Portfolio of SQL, Python, Power BI and Microsoft Fabric projects completed as part of the Mission Ready AI-Powered Data Analyst Accelerator.
