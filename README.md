@@ -31,3 +31,4 @@ The portfolio is organised into the following technical disciplines:
 
 ➡ https://github.com/marilynturnbull/Python-Projects
 
+This portfolio demonstrates how I am combining practical industry experience with modern analytics capabilities. Through my work at HEB Construction, I have developed experience in reporting, operational analytics, systems support, digital transformation, and project delivery. The projects showcased within this portfolio build upon that experience through the application of Power BI, SQL, Python, Microsoft Fabric, and business intelligence techniques to solve real-world business problems and support data-driven decision-making.
